@@ -6,8 +6,8 @@ This project demonstrates **NLP, social impact, and web development skills**.
 ---
 
 ## 🚀 Live Demo
-👉 [Try the App](https://your-streamlit-app-link.streamlit.app)  
-*(replace with your actual Streamlit Cloud link once deployed)*
+👉 [Try the App](https://ai-mentalhealth-companion.streamlit.app/)  
+
 
 ---
 
